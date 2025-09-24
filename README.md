@@ -1,2 +1,2 @@
 # DevOps-Hackathon
-Hackathon
+Learning GitHub with DevOps
